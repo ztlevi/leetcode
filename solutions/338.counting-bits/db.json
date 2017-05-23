@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int[] countBits(int num) {\r\n        int ele = 0; int[] ans = new int[num+1];\r\n        \r\n        for(int i = 1; i <= num; i++){\r\n            ans[i] = ans[i&(i-1)] + 1;\r\n        }\r\n\r\n        return ans;\r\n    }\r\n}"}

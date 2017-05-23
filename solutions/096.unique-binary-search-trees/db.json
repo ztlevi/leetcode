@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int numTrees(int n) {\r\n        int[] count = new int[n+1];\r\n        count[0] = 1; count[1] = 1;\r\n        for (int i = 2; i <=n; i++) {\r\n            for (int j = 0; j <i; j++) {\r\n                count[i] += count[j]*count[i-j-1];\r\n            }\r\n        }\r\n        return count[n];\r\n    }\r\n}"}

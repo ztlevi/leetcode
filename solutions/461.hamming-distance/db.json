@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int hammingDistance(int x, int y) {\r\n        int n = x ^ y;\r\n        int distance = 0;\r\n        while (n > 0) {\r\n            if (n % 2 == 1) {\r\n                distance++;\r\n                n = (n-1)/2;\r\n            } else n /= 2;\r\n        }\r\n        return distance;\r\n    }\r\n}"}

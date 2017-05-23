@@ -1,0 +1,1 @@
+{"c++":"class Solution {\r\npublic:\r\n    bool canWinNim(int n) {\r\n        return n%4!=0;\r\n    }\r\n};"}

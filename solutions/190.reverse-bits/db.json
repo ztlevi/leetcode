@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    // you need treat n as an unsigned value\r\n    public int reverseBits(int n) {\r\n        int result = 0;\r\n        for (int i = 0; i < 32; i++) {\r\n            result = result<<1 | (n&1);\r\n            n >>= 1;\r\n        }\r\n        return result;\r\n    }\r\n}"}

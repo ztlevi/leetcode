@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int removeElement(int[] nums, int val) {\r\n        int j = 0;\r\n        for (int i = 0; i < nums.length; i++) {\r\n            if (nums[i] != val) {\r\n                nums[j] = nums[i];\r\n                j++;\r\n            }\r\n        }\r\n        return j;\r\n    }\r\n}"}

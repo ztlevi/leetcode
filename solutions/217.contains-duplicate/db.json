@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public boolean containsDuplicate(int[] nums) {\r\n        Set<Integer> set = new HashSet();\r\n        for(int i : nums){\r\n            if(set.contains(i)) return true;\r\n            set.add(i);\r\n        }\r\n        return false;\r\n    }\r\n}"}

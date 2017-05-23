@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int climbStairs(int n) {\r\n        if(n == 1) return 1;\r\n        if(n == 2) return 2;\r\n        int ans = 0; int n1 = 1, n2 = 2;\r\n        for(int i = 3; i <= n; i++){\r\n            int foo = n1 + n2;\r\n            n1 = n2;\r\n            n2 = foo;\r\n            ans = foo;\r\n        }\r\n        return ans;\r\n    }\r\n}"}

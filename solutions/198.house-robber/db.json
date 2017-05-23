@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int rob(int[] nums) {\r\n        int sum = 0, lastSum = 0;\r\n        for(int i = 0; i< nums.length; i++){\r\n            int foo = sum;\r\n            sum = Math.max(lastSum + nums[i], sum);\r\n            lastSum = foo;\r\n        }\r\n        return sum;\r\n    }\r\n}"}

@@ -1,0 +1,1 @@
+{"c++":"class Solution {\r\npublic:\r\n    string reverseString(string s) {\r\n        string rs;  //reverse String\r\n        for(int numOfChar = 0; numOfChar < s.length(); numOfChar++)\r\n        {\r\n          rs += s[s.length() - numOfChar-1];\r\n        }\r\n        return rs;\r\n    }\r\n};"}

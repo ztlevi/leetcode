@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public boolean isPowerOfThree(int n) {\r\n        if(n==0) return false;\r\n        return n == Math.pow(3, Math.round(Math.log(n)/Math.log(3)));\r\n    }\r\n}"}

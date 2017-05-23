@@ -1,0 +1,174 @@
+# leetcode solutions using java,c++,python
+This is my leetcode solution folder.
+
+Language: java,c++,python
+
+Last updated: 2017-05-22
+
+I've solved 161/535 problems (97 problems for a fee).
+
+The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
+
+| # | Problems | Solutions | Difficulty |
+|:--:|:-----:|:---------:|:----:|
+|001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](./001.two-sum/two-sum.java)| Easy|
+|002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./002.add-two-numbers/add-two-numbers.java)| Medium|
+|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [java](./003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)| Medium|
+|004|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [c++](./004.median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp)| hard|
+|005|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)| [java](./005.longest-palindromic-substring/longest-palindromic-substring.java)| Medium|
+|006|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)| [java](./006.zigzag-conversion/zigzag-conversion.java)| Medium|
+|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [java](./007.reverse-integer/reverse-integer.java)| Easy|
+|008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [java](./008.string-to-integer-atoi/string-to-integer-atoi.java)| Medium|
+|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [java](./009.palindrome-number/palindrome-number.java)| Easy|
+|010|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/)| [java](./010.regular-expression-matching/regular-expression-matching.java)| hard|
+|011|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/)| [java](./011.container-with-most-water/container-with-most-water.java)| Medium|
+|012|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/)| [java](./012.integer-to-roman/integer-to-roman.java)| Medium|
+|013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [java](./013.roman-to-integer/roman-to-integer.java)| Easy|
+|014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](./014.longest-common-prefix/longest-common-prefix.java)| Easy|
+|015|[3sum](https://leetcode.com/problems/3sum/)| [java](./015.3sum/3sum.java)| Medium|
+|017|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [java](./017.letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java)| Medium|
+|020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](./020.valid-parentheses/valid-parentheses.java)| Easy|
+|021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|
+|022|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)| [java](./022.generate-parentheses/generate-parentheses.java)| Medium|
+|023|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [java](./023.merge-k-sorted-lists/merge-k-sorted-lists.java)| hard|
+|026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [c++](./026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) [java](./026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java)| Easy|
+|027|[remove-element](https://leetcode.com/problems/remove-element/)| [java](./027.remove-element/remove-element.java)| Easy|
+|028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](./028.implement-strstr/implement-strstr.java)| Easy|
+|033|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [c++](./033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp)| Medium|
+|036|[valid-sudoku](https://leetcode.com/problems/valid-sudoku/)| [java](./036.valid-sudoku/valid-sudoku.java)| Medium|
+|038|[count-and-say](https://leetcode.com/problems/count-and-say/)| [java](./038.count-and-say/count-and-say.java)| Easy|
+|041|[first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| [java](./041.first-missing-positive/first-missing-positive.java)| hard|
+|042|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)| [java](./042.trapping-rain-water/trapping-rain-water.java)| hard|
+|043|[multiply-strings](https://leetcode.com/problems/multiply-strings/)| [java](./043.multiply-strings/multiply-strings.java)| Medium|
+|046|[permutations](https://leetcode.com/problems/permutations/)| [java](./046.permutations/permutations.java)| Medium|
+|048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
+|049|[anagrams](https://leetcode.com/problems/anagrams/)| [java](./049.anagrams/anagrams.java)| Medium|
+|050|[powx-n](https://leetcode.com/problems/powx-n/)| [java](./050.powx-n/powx-n.java)| Medium|
+|053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [java](./053.maximum-subarray/maximum-subarray.java)| Easy|
+|054|[spiral-matrix](https://leetcode.com/problems/spiral-matrix/)| [java](./054.spiral-matrix/spiral-matrix.java)| Medium|
+|056|[merge-intervals](https://leetcode.com/problems/merge-intervals/)| [java](./056.merge-intervals/merge-intervals.java)| Medium|
+|066|[plus-one](https://leetcode.com/problems/plus-one/)| [java](./066.plus-one/plus-one.java)| Easy|
+|067|[add-binary](https://leetcode.com/problems/add-binary/)| [java](./067.add-binary/add-binary.java)| Easy|
+|069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
+|070|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)| [java](./070.climbing-stairs/climbing-stairs.java)| Easy|
+|072|[edit-distance](https://leetcode.com/problems/edit-distance/)| [java](./072.edit-distance/edit-distance.java)| hard|
+|075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [python](./075.sort-colors/sort-colors.py)| Medium|
+|076|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)| [python](./076.minimum-window-substring/minimum-window-substring.py)| hard|
+|079|[word-search](https://leetcode.com/problems/word-search/)| [java](./079.word-search/word-search.java)| Medium|
+|080|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [c++](./080.remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp)| Medium|
+|081|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [c++](./081.search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp)| Medium|
+|085|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle/)| [java](./085.maximal-rectangle/maximal-rectangle.java)| hard|
+|088|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)| [java](./088.merge-sorted-array/merge-sorted-array.java)| Easy|
+|089|[gray-code](https://leetcode.com/problems/gray-code/)| [java](./089.gray-code/gray-code.java)| Medium|
+|091|[decode-ways](https://leetcode.com/problems/decode-ways/)| [python](./091.decode-ways/decode-ways.py)| Medium|
+|096|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/)| [java](./096.unique-binary-search-trees/unique-binary-search-trees.java)| Medium|
+|100|[same-tree](https://leetcode.com/problems/same-tree/)| [java](./100.same-tree/same-tree.java)| Easy|
+|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [java](./104.maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java)| Easy|
+|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./110.balanced-binary-tree/balanced-binary-tree.java)| Easy|
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle/)| [java](./118.pascals-triangle/pascals-triangle.java)| Easy|
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [java](./121.best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java)| Easy|
+|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [java](./122.best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java)| Easy|
+|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)| [python](./125.valid-palindrome/valid-palindrome.py)| Easy|
+|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [java](./128.longest-consecutive-sequence/longest-consecutive-sequence.java)| hard|
+|136|[single-number](https://leetcode.com/problems/single-number/)| [java](./136.single-number/single-number.java)| Easy|
+|137|[single-number-ii](https://leetcode.com/problems/single-number-ii/)| [java](./137.single-number-ii/single-number-ii.java)| Medium|
+|138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [java](./138.copy-list-with-random-pointer/copy-list-with-random-pointer.java)| Medium|
+|139|[word-break](https://leetcode.com/problems/word-break/)| [java](./139.word-break/word-break.java)| Medium|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [java](./141.linked-list-cycle/linked-list-cycle.java)| Easy|
+|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/)| [java](./142.linked-list-cycle-ii/linked-list-cycle-ii.java)| Medium|
+|146|[lru-cache](https://leetcode.com/problems/lru-cache/)| [java](./146.lru-cache/lru-cache.java)| hard|
+|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list/)| [java](./147.insertion-sort-list/insertion-sort-list.java)| Medium|
+|148|[sort-list](https://leetcode.com/problems/sort-list/)| [java](./148.sort-list/sort-list.java)| Medium|
+|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line/)| [java](./149.max-points-on-a-line/max-points-on-a-line.java)| hard|
+|150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [java](./150.evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.java)| Medium|
+|151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/)| [java](./151.reverse-words-in-a-string/reverse-words-in-a-string.java)| Medium|
+|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/)| [java](./152.maximum-product-subarray/maximum-product-subarray.java)| Medium|
+|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [java](./153.find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java)| Medium|
+|155|[min-stack](https://leetcode.com/problems/min-stack/)| [java](./155.min-stack/min-stack.java)| Easy|
+|157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4/)| [python](./157.read-n-characters-given-read4/read-n-characters-given-read4.py)| Easy|
+|158|[read-n-characters-given-read4-ii-call-multiple-times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)| [python](./158.read-n-characters-given-read4-ii-call-multiple-times/read-n-characters-given-read4-ii-call-multiple-times.py)| hard|
+|160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [java](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)| Easy|
+|162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
+|164|[maximum-gap](https://leetcode.com/problems/maximum-gap/)| [java](./164.maximum-gap/maximum-gap.java)| hard|
+|168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title/)| [java](./168.excel-sheet-column-title/excel-sheet-column-title.java)| Easy|
+|169|[majority-element](https://leetcode.com/problems/majority-element/)| [java](./169.majority-element/majority-element.java)| Easy|
+|170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)| [java](./170.two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.java)| Easy|
+|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number/)| [java](./171.excel-sheet-column-number/excel-sheet-column-number.java)| Easy|
+|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [java](./172.factorial-trailing-zeroes/factorial-trailing-zeroes.java)| Easy|
+|173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [java](./173.binary-search-tree-iterator/binary-search-tree-iterator.java)| Medium|
+|179|[largest-number](https://leetcode.com/problems/largest-number/)| [java](./179.largest-number/largest-number.java)| Medium|
+|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [java](./187.repeated-dna-sequences/repeated-dna-sequences.java)| Medium|
+|188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [java](./188.best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.java)| hard|
+|189|[rotate-array](https://leetcode.com/problems/rotate-array/)| [java](./189.rotate-array/rotate-array.java)| Easy|
+|190|[reverse-bits](https://leetcode.com/problems/reverse-bits/)| [java](./190.reverse-bits/reverse-bits.java)| Easy|
+|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./191.number-of-1-bits/number-of-1-bits.java)| Easy|
+|198|[house-robber](https://leetcode.com/problems/house-robber/)| [java](./198.house-robber/house-robber.java)| Easy|
+|200|[number-of-islands](https://leetcode.com/problems/number-of-islands/)| [java](./200.number-of-islands/number-of-islands.java)| Medium|
+|202|[happy-number](https://leetcode.com/problems/happy-number/)| [java](./202.happy-number/happy-number.java)| Easy|
+|204|[count-primes](https://leetcode.com/problems/count-primes/)| [java](./204.count-primes/count-primes.java)| Easy|
+|206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](./206.reverse-linked-list/reverse-linked-list.java)| Easy|
+|208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)| [python](./208.implement-trie-prefix-tree/implement-trie-prefix-tree.py)| Medium|
+|209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [java](./209.minimum-size-subarray-sum/minimum-size-subarray-sum.java)| Medium|
+|211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [python](./211.add-and-search-word-data-structure-design/add-and-search-word-data-structure-design.py)| Medium|
+|217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate/)| [java](./217.contains-duplicate/contains-duplicate.java)| Easy|
+|218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem/)| [java](./218.the-skyline-problem/the-skyline-problem.java)| hard|
+|219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/)| [java](./219.contains-duplicate-ii/contains-duplicate-ii.java)| Easy|
+|220|[contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii/)| [java](./220.contains-duplicate-iii/contains-duplicate-iii.java)| Medium|
+|223|[rectangle-area](https://leetcode.com/problems/rectangle-area/)| [java](./223.rectangle-area/rectangle-area.java)| Medium|
+|226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)| [java](./226.invert-binary-tree/invert-binary-tree.java)| Easy|
+|228|[summary-ranges](https://leetcode.com/problems/summary-ranges/)| [java](./228.summary-ranges/summary-ranges.java)| Medium|
+|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii/)| [java](./229.majority-element-ii/majority-element-ii.java)| Medium|
+|231|[power-of-two](https://leetcode.com/problems/power-of-two/)| [java](./231.power-of-two/power-of-two.java)| Easy|
+|233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one/)| [java](./233.number-of-digit-one/number-of-digit-one.java)| hard|
+|234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)| [java](./234.palindrome-linked-list/palindrome-linked-list.java)| Easy|
+|235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [java](./235.lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.java)| Easy|
+|237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [java](./237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)| Easy|
+|238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)| [java](./238.product-of-array-except-self/product-of-array-except-self.java)| Medium|
+|240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [java](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java)| Medium|
+|242|[valid-anagram](https://leetcode.com/problems/valid-anagram/)| [java](./242.valid-anagram/valid-anagram.java)| Easy|
+|244|[shortest-word-distance-ii](https://leetcode.com/problems/shortest-word-distance-ii/)| [java](./244.shortest-word-distance-ii/shortest-word-distance-ii.java)| Medium|
+|253|[meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/)| [python](./253.meeting-rooms-ii/meeting-rooms-ii.py) [java](./253.meeting-rooms-ii/meeting-rooms-ii.java)| Medium|
+|257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/)| [python](./257.binary-tree-paths/binary-tree-paths.py)| Easy|
+|258|[add-digits](https://leetcode.com/problems/add-digits/)| [c++](./258.add-digits/add-digits.cpp) [java](./258.add-digits/add-digits.java)| Easy|
+|260|[single-number-iii](https://leetcode.com/problems/single-number-iii/)| [java](./260.single-number-iii/single-number-iii.java)| Medium|
+|263|[ugly-number](https://leetcode.com/problems/ugly-number/)| [java](./263.ugly-number/ugly-number.java)| Easy|
+|268|[missing-number](https://leetcode.com/problems/missing-number/)| [java](./268.missing-number/missing-number.java)| Easy|
+|273|[integer-to-english-words](https://leetcode.com/problems/integer-to-english-words/)| [java](./273.integer-to-english-words/integer-to-english-words.java)| hard|
+|277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity/)| [c++](./277.find-the-celebrity/find-the-celebrity.cpp) [python](./277.find-the-celebrity/find-the-celebrity.py)| Medium|
+|278|[first-bad-version](https://leetcode.com/problems/first-bad-version/)| [python](./278.first-bad-version/first-bad-version.py)| Easy|
+|279|[perfect-squares](https://leetcode.com/problems/perfect-squares/)| [java](./279.perfect-squares/perfect-squares.java)| Medium|
+|282|[expression-add-operators](https://leetcode.com/problems/expression-add-operators/)| [python](./282.expression-add-operators/expression-add-operators.py)| hard|
+|283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)| [java](./283.move-zeroes/move-zeroes.java)| Easy|
+|287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)| [java](./287.find-the-duplicate-number/find-the-duplicate-number.java)| Medium|
+|289|[game-of-life](https://leetcode.com/problems/game-of-life/)| [java](./289.game-of-life/game-of-life.java)| Medium|
+|292|[nim-game](https://leetcode.com/problems/nim-game/)| [c++](./292.nim-game/nim-game.cpp)| Easy|
+|297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [python](./297.serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.py)| hard|
+|301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)| [java](./301.remove-invalid-parentheses/remove-invalid-parentheses.java)| hard|
+|306|[additive-number](https://leetcode.com/problems/additive-number/)| [java](./306.additive-number/additive-number.java)| Medium|
+|311|[sparse-matrix-multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)| [python](./311.sparse-matrix-multiplication/sparse-matrix-multiplication.py)| Medium|
+|314|[binary-tree-vertical-order-traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)| [python](./314.binary-tree-vertical-order-traversal/binary-tree-vertical-order-traversal.py)| Medium|
+|316|[remove-duplicate-letters](https://leetcode.com/problems/remove-duplicate-letters/)| [java](./316.remove-duplicate-letters/remove-duplicate-letters.java)| hard|
+|319|[bulb-switcher](https://leetcode.com/problems/bulb-switcher/)| [java](./319.bulb-switcher/bulb-switcher.java)| Medium|
+|325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)| [java](./325.maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.java)| Medium|
+|326|[power-of-three](https://leetcode.com/problems/power-of-three/)| [java](./326.power-of-three/power-of-three.java)| Easy|
+|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/)| [java](./328.odd-even-linked-list/odd-even-linked-list.java)| Medium|
+|335|[self-crossing](https://leetcode.com/problems/self-crossing/)| [java](./335.self-crossing/self-crossing.java)| hard|
+|336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs/)| [java](./336.palindrome-pairs/palindrome-pairs.java)| hard|
+|338|[counting-bits](https://leetcode.com/problems/counting-bits/)| [java](./338.counting-bits/counting-bits.java)| Medium|
+|339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum/)| [java](./339.nested-list-weight-sum/nested-list-weight-sum.java)| Easy|
+|341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)| [python](./341.flatten-nested-list-iterator/flatten-nested-list-iterator.py)| Medium|
+|344|[reverse-string](https://leetcode.com/problems/reverse-string/)| [c++](./344.reverse-string/reverse-string.cpp)| Easy|
+|345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [java](./345.reverse-vowels-of-a-string/reverse-vowels-of-a-string.java)| Easy|
+|347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)| [java](./347.top-k-frequent-elements/top-k-frequent-elements.java)| Medium|
+|349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [java](./349.intersection-of-two-arrays/intersection-of-two-arrays.java)| Easy|
+|364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii/)| [java](./364.nested-list-weight-sum-ii/nested-list-weight-sum-ii.java)| Medium|
+|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)| [c++](./371.sum-of-two-integers/sum-of-two-integers.cpp)| Easy|
+|374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [java](./374.guess-number-higher-or-lower/guess-number-higher-or-lower.java)| Easy|
+|383|[ransom-note](https://leetcode.com/problems/ransom-note/)| [java](./383.ransom-note/ransom-note.java)| Easy|
+|384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array/)| [java](./384.shuffle-an-array/shuffle-an-array.java)| Medium|
+|387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/)| [java](./387.first-unique-character-in-a-string/first-unique-character-in-a-string.java)| Easy|
+|388|[longest-absolute-file-path](https://leetcode.com/problems/longest-absolute-file-path/)| [java](./388.longest-absolute-file-path/longest-absolute-file-path.java)| Medium|
+|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)| [java](./412.fizz-buzz/fizz-buzz.java)| Easy|
+|419|[battleships-in-a-board](https://leetcode.com/problems/battleships-in-a-board/)| [java](./419.battleships-in-a-board/battleships-in-a-board.java)| Medium|
+|461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](./461.hamming-distance/hamming-distance.java)| Easy|
+|463|[island-perimeter](https://leetcode.com/problems/island-perimeter/)| [java](./463.island-perimeter/island-perimeter.java)| Easy|

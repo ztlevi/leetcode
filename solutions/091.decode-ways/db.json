@@ -1,0 +1,1 @@
+{"python":"class Solution(object):\r\n    def numDecodings(self, s):\r\n        v, w, p = 0, int(s>''), ''\r\n        for d in s:\r\n            lastState = w\r\n            w= (d>'0')*w + (9<int(p+d)<27)*v\r\n            v = lastState\r\n            p = d\r\n        return w\r\n"}

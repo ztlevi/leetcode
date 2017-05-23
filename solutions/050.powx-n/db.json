@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public double myPow(double x, int n) {\r\n        return Math.pow(x, n);\r\n    }\r\n}"}

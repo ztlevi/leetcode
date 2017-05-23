@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int findMin(int[] nums) {\r\n        int target = nums[nums.length-1];\r\n        \r\n        for(int i=0; i<nums.length; i++){\r\n            if(nums[i]<=target) return nums[i];\r\n        }\r\n        \r\n        return -1;\r\n    }\r\n}"}

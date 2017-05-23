@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int missingNumber(int[] nums) {\r\n        int lens = nums.length, ans = 0;\r\n        \r\n        for(int i = 0; i < lens; i++) {\r\n            ans += i+1-nums[i];\r\n        }\r\n        \r\n        return ans;\r\n    }\r\n\r\n}"}

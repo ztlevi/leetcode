@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public boolean isPowerOfTwo(int n) {\r\n        if (n < 1) return false;\r\n        \r\n        int x = n&(n-1);\r\n        if (x == 0)\r\n            return true;\r\n        else return false;\r\n    }\r\n}"}

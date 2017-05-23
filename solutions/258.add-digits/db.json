@@ -1,0 +1,1 @@
+{"c++":"class Solution {\r\npublic:\r\n    int addDigits(int num) {\r\n        if(num <= 9)\r\n            return num;\r\n        else return addDigits(num/10 + num%10);\r\n    }\r\n};","java":"public class Solution {\r\n    public int addDigits(int num) {\r\n        return (num-1)%9+1;\r\n    }\r\n}"}

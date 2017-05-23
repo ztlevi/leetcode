@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    // you need to treat n as an unsigned value\r\n    public int hammingWeight(int n) {\r\n        int ans = 0;\r\n        while(n != 0){\r\n            ans++;\r\n            n &= n - 1;\r\n        }\r\n        return ans;\r\n        \r\n    }\r\n}"}

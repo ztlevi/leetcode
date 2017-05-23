@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int trailingZeroes(int n) {\r\n        int count = 0;\r\n        for(long i = 5; n >= i; i = i*5){\r\n            count += n/i;\r\n        }\r\n        return count;\r\n    }\r\n}"}
