@@ -10,11 +10,11 @@ module.exports = {
   // 这一项会用在封面页的介绍文字上
   // 显示为 {{author}} 's Leetcode solutions
   // 如果你不想显示你的名字,就保持 null, 介绍页面上会显示 My Leetcode solutions
-  author: 'Chuck Liu',
+  author: 'Ting Zhou',
   // 如果你的leetcode源码已经存放在github上,那么此处可以填写为具体的项目地址
   // 这样 我会在导航栏添加一个链接 到您的git 项目地址
   // 否则,请保持 null
-  gitRepo: 'https://github.com/Ma63d/leetcode',
+  gitRepo: 'https://github.com/ztlevi/Leetcode',
   // 网页的语言 zh 中文 en 英文
   language: 'en',
   // 是否开启多说插件 如果你开启此选项,请确保您已注册多说站点
