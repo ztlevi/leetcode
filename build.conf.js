@@ -14,7 +14,7 @@ module.exports = {
   // 如果你的leetcode源码已经存放在github上,那么此处可以填写为具体的项目地址
   // 这样 我会在导航栏添加一个链接 到您的git 项目地址
   // 否则,请保持 null
-  gitRepo: 'https://github.com/ztlevi/Leetcode',
+  gitRepo: 'https://github.com/ztlevi/leetcode',
   // 网页的语言 zh 中文 en 英文
   language: 'en',
   // 是否开启多说插件 如果你开启此选项,请确保您已注册多说站点

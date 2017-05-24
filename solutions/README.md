@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java,c++,python
 
-Last updated: 2017-05-22
+Last updated: 2017-05-23
 
-I've solved 161/535 problems (97 problems for a fee).
+I've solved 163/535 problems (97 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -54,6 +54,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |072|[edit-distance](https://leetcode.com/problems/edit-distance/)| [java](./072.edit-distance/edit-distance.java)| hard|
 |075|[sort-colors](https://leetcode.com/problems/sort-colors/)| [python](./075.sort-colors/sort-colors.py)| Medium|
 |076|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/)| [python](./076.minimum-window-substring/minimum-window-substring.py)| hard|
+|078|[subsets](https://leetcode.com/problems/subsets/)| [python](./078.subsets/subsets.py)| Medium|
 |079|[word-search](https://leetcode.com/problems/word-search/)| [java](./079.word-search/word-search.java)| Medium|
 |080|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [c++](./080.remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp)| Medium|
 |081|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [c++](./081.search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp)| Medium|
@@ -62,6 +63,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |089|[gray-code](https://leetcode.com/problems/gray-code/)| [java](./089.gray-code/gray-code.java)| Medium|
 |091|[decode-ways](https://leetcode.com/problems/decode-ways/)| [python](./091.decode-ways/decode-ways.py)| Medium|
 |096|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/)| [java](./096.unique-binary-search-trees/unique-binary-search-trees.java)| Medium|
+|098|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)| [python](./098.validate-binary-search-tree/validate-binary-search-tree.py)| Medium|
 |100|[same-tree](https://leetcode.com/problems/same-tree/)| [java](./100.same-tree/same-tree.java)| Easy|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [java](./104.maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java)| Easy|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./110.balanced-binary-tree/balanced-binary-tree.java)| Easy|

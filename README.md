@@ -30,7 +30,7 @@
 先clone/fork本项目 然后进入本项目所在文件夹
 
 ```
-git clone https://github.com/Ma63d/leetcode-viewer.git 
+git clone https://github.com/Ma63d/leetcode-viewer.git
 cd leetcode-viewer
 ```
 
@@ -38,7 +38,7 @@ cd leetcode-viewer
 
 ```
 npm i
-npm i leetcode-spider -g 
+npm i leetcode-spider -g
 ```
 然后按照lc-spider的使用方法 先爬下来你的leetcode解题源码 详见[leetcode-spider](https://github.com/Ma63d/leetcode-spider)使用介绍
 
@@ -46,7 +46,7 @@ npm i leetcode-spider -g
 
 ```
 #进入您希望存放源码的目录,运行leetcode-spider,爬取源码
-cd solutions 
+cd solutions
 lc-spider
 ```
 **再强调一遍!!!如果你不是在solutions目录下爬取的源码,那么请记得更改[config](https://github.com/Ma63d/leetcode-viewer#config-配置)中的sourcePath为你的源码目录**
@@ -54,7 +54,7 @@ lc-spider
 
 等leetcode-spider爬爬爬,爬好之后,打包生成应用
 
-``` 
+```
 npm run build
 ```
 
@@ -63,8 +63,8 @@ generate源码相关信息
 
 
 ```bash
-npm run generate 
-#用时一般不会超过0.5秒 
+npm run generate
+#用时一般不会超过0.5秒
 ```
 
 ok了,现在,这就是一个可以放在任何一个静态服务器上的网页了.
@@ -88,7 +88,7 @@ ok了,现在,这就是一个可以放在任何一个静态服务器上的网页�
 ```
 ├── solutions
 │   └───── 001.two-sum
-│				└───── db.json // leetcode-viewer运行时所需的信息文件 
+│				└───── db.json // leetcode-viewer运行时所需的信息文件
 │				├───── question.md // leetcode-spider爬下来的这道leetcode的题目
 │				├───── two-sum.java //leetcode-spider爬下来的你的解题源码
 │				├───── post.md //你应该在此处创建该文件, 并在文件里用markdown语法书写你的文章
@@ -108,32 +108,32 @@ ok了,现在,这就是一个可以放在任何一个静态服务器上的网页�
 - author
 
   此项填写为您的名字,这一项会用在封面页的介绍文字上
-  
+
   显示为 `{{author}}'s Leetcode solutions`
-  
-  如果你不想显示你的名字,就填写`null`, 
-  
+
+  如果你不想显示你的名字,就填写`null`,
+
   介绍页面上会显示 `My Leetcode solutions`
 - gitRepo
 
   如果你的leetcode源码已经存放在github上,那么此处可以填写为具体的项目地址
-  
+
   这样,我会在导航栏添加一个链接到您的git项目地址
-  
-  否则,请保持`null`  
-- language 
+
+  否则,请保持`null`
+- language
 
   网页的语言,主要是封面介绍页和顶部导航条的文字,`zh` 中文 `en` 英文
-- duoShuoPlugin: false, 
+- duoShuoPlugin: false,
 
   是否开启多数插件, 如果你开启此选项,请确保您已注册多说站点
-  
+
   [多说](http://duoshuo.com/)是一个评论插件,可以为你的网站增加评论功能
-  
-- duoShuoShortName: 'your origin' 
+
+- duoShuoShortName: 'your origin'
 
   您的多说二级域名,如果您开启了多说,则一定要将此处的多说域名修改为您自己的多说域名
-  
+
 ## updating 更新
 
 如果你在leetcode上又AC了一些题,并希望爬取下来,那你只需要再次进入到你的源码存放目录,然后执行命令`lc-spider`,就可以自动爬取下来你新解的题目.
@@ -157,10 +157,3 @@ ok了,当前的网页呈现的是你的最新版代码.
 - `npm run build`是用来打包生成前端网页的, 除了[使用方法](https://github.com/Ma63d/leetcode-viewer#usage-使用方法)里所说的进行leetcode-viewer的安装工作的时候用,就**只有**在你更新了[build.conf.js](./build.conf.js)时才需要再次执行该命令,其余时候都不用.
 
 - `npm run generate` 是用来生成网页运行的时候所需的一些JSON信息文件的,因此,如果你爬了新的代码,那么请记得爬好之后运行此命令,(而且再啰嗦一句,记得在leetcode源码目录运行此命令哈),而如果你是[写了新的博客文章](https://github.com/Ma63d/leetcode-viewer#writing-posts-书写文章),则不需要运行此命令,你要做的就是刷新网页.
-
-
-
-
-
-
-
