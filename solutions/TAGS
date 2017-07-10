@@ -1,0 +1,694 @@
+
+/Users/ztlevi/Dropbox/leetcode/solutions/001.two-sum/two-sum.java,99
+public class Solution {Solution1,0
+    public int[] twoSum(int[] nums, int target) {twoSum2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/002.add-two-numbers/add-two-numbers.java,122
+public class Solution {Solution9,160
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {addTwoNumbers10,185
+
+/Users/ztlevi/Dropbox/leetcode/solutions/003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java,119
+public class Solution {Solution1,0
+    public int lengthOfLongestSubstring(String s) {lengthOfLongestSubstring2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/004.median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp,134
+class Solution {Solution1,0
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {findMedianSortedArrays3,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/005.longest-palindromic-substring/longest-palindromic-substring.java,204
+public class Solution {Solution1,0
+ public String longestPalindrome(String s) {longestPalindrome2,25
+	public String expandPalindromFromCenter(String s, int l, int r){expandPalindromFromCenter13,368
+
+/Users/ztlevi/Dropbox/leetcode/solutions/006.zigzag-conversion/zigzag-conversion.java,101
+public class Solution {Solution1,0
+    public String convert(String s, int numRows) {convert2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/007.reverse-integer/reverse-integer.java,82
+public class Solution {Solution1,0
+    public int reverse(int x) {reverse2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/008.string-to-integer-atoi/string-to-integer-atoi.java,85
+public class Solution {Solution1,0
+    public int myAtoi(String str) {myAtoi2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/009.palindrome-number/palindrome-number.java,96
+public class Solution {Solution1,0
+    public boolean isPalindrome(int x) {isPalindrome2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/010.regular-expression-matching/regular-expression-matching.java,99
+public class Solution {Solution1,0
+    public boolean isMatch(String s, String p) {isMatch2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/011.container-with-most-water/container-with-most-water.java,89
+public class Solution {Solution1,0
+    public int maxArea(int[] height) {maxArea2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/012.integer-to-roman/integer-to-roman.java,93
+public class Solution {Solution1,0
+    public String intToRoman(int num) {intToRoman2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/013.roman-to-integer/roman-to-integer.java,91
+public class Solution {Solution1,0
+    public int romanToInt(String s) {romanToInt2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/014.longest-common-prefix/longest-common-prefix.java,117
+public class Solution {Solution1,0
+    public String longestCommonPrefix(String[] strs) {longestCommonPrefix2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/015.3sum/3sum.java,105
+public class Solution {Solution1,0
+    public List<List<Integer>> threeSum(int[] nums) {threeSum2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/020.valid-parentheses/valid-parentheses.java,162
+public class Solution {Solution1,0
+    public boolean isValid(String s) {isValid2,25
+    public boolean peekValid(Character a, Character b){peekValid17,529
+
+/Users/ztlevi/Dropbox/leetcode/solutions/021.merge-two-sorted-lists/merge-two-sorted-lists.java,122
+public class Solution {Solution9,160
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {mergeTwoLists10,185
+
+/Users/ztlevi/Dropbox/leetcode/solutions/022.generate-parentheses/generate-parentheses.java,204
+public class Solution {Solution1,0
+    public List<String> generateParenthesis(int n) {generateParenthesis2,25
+    public void helper(int left, int right, List<String> list, String par){helper8,190
+
+/Users/ztlevi/Dropbox/leetcode/solutions/023.merge-k-sorted-lists/merge-k-sorted-lists.java,189
+public class Solution {Solution9,160
+    public ListNode mergeKLists(ListNode[] lists) {mergeKLists10,185
+    public ListNode merge2Lists(ListNode l1, ListNode l2) {merge2Lists28,848
+
+/Users/ztlevi/Dropbox/leetcode/solutions/026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp,98
+class Solution {Solution1,0
+    int removeDuplicates(vector<int>& nums) {removeDuplicates3,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java,105
+public class Solution {Solution1,0
+    public int removeDuplicates(int[] nums) {removeDuplicates2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/027.remove-element/remove-element.java,108
+public class Solution {Solution1,0
+    public int removeElement(int[] nums, int val) {removeElement2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/028.implement-strstr/implement-strstr.java,188
+public class Solution {Solution1,0
+    public int strStr(String haystack, String needle) {strStr2,25
+    public boolean check(String haystack, int start, String needle) {check13,351
+
+/Users/ztlevi/Dropbox/leetcode/solutions/033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp,96
+class Solution {Solution1,0
+    int search(const vector<int>& nums, int target) {search3,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/036.valid-sudoku/valid-sudoku.java,107
+public class Solution {Solution1,0
+    public boolean isValidSudoku(char[][] board) {isValidSudoku2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/038.count-and-say/count-and-say.java,93
+public class Solution {Solution1,0
+    public String countAndSay(int n) {countAndSay2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/041.first-missing-positive/first-missing-positive.java,110
+public class Solution {Solution1,0
+    public int firstMissingPositive(int[] A) {firstMissingPositive2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/042.trapping-rain-water/trapping-rain-water.java,79
+public class Solution {Solution1,0
+public int trap(int[] height) {trap2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/043.multiply-strings/multiply-strings.java,106
+public class Solution {Solution1,0
+    public String multiply(String num1, String num2) {multiply2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/046.permutations/permutations.java,199
+public class Solution {Solution1,0
+    public List<List<Integer>> permute(int[] nums) {permute2,25
+    public void helper(List<List<Integer>> ans, List<Integer> list, int[] nums) {helper12,325
+
+/Users/ztlevi/Dropbox/leetcode/solutions/048.rotate-image/rotate-image.java,90
+public class Solution {Solution1,0
+    public void rotate(int[][] matrix) {rotate2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/049.anagrams/anagrams.java,117
+public class Solution {Solution1,0
+    public List<List<String>> groupAnagrams(String[] strs) {groupAnagrams2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/050.powx-n/powx-n.java,91
+public class Solution {Solution1,0
+    public double myPow(double x, int n) {myPow2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/053.maximum-subarray/maximum-subarray.java,95
+public class Solution {Solution1,0
+    public int maxSubArray(int[] nums) {maxSubArray2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/054.spiral-matrix/spiral-matrix.java,109
+public class Solution {Solution1,0
+    public List<Integer> spiralOrder(int[][] matrix) {spiralOrder2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/056.merge-intervals/merge-intervals.java,113
+public class Solution {Solution10,210
+    public List<Interval> merge(List<Interval> intervals) {merge11,235
+
+/Users/ztlevi/Dropbox/leetcode/solutions/066.plus-one/plus-one.java,91
+public class Solution {Solution1,0
+    public int[] plusOne(int[] digits) {plusOne2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/069.sqrtx/sqrtx.java,80
+public class Solution {Solution1,0
+    public int mySqrt(int x) {mySqrt2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/072.edit-distance/edit-distance.java,111
+public class Solution {Solution1,0
+    public int minDistance(String word1, String word2) {minDistance2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/075.sort-colors/sort-colors.py,85
+class Solution(object):Solution1,0
+    def sortColors(self, nums):sortColors2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/076.minimum-window-substring/minimum-window-substring.py,83
+class Solution(object):Solution1,0
+    def minWindow(self, s, t):minWindow2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/078.subsets/subsets.py,115
+class Solution(object):Solution1,0
+    def subsets(self, nums):subsets2,24
+    def dfs(self, nums):dfs11,219
+
+/Users/ztlevi/Dropbox/leetcode/solutions/079.word-search/word-search.java,189
+public class Solution {Solution1,0
+    public boolean exist(char[][] board, String word) {exist2,24
+    public boolean helper(char[][] board, String word, int i, int j) {helper19,516
+
+/Users/ztlevi/Dropbox/leetcode/solutions/080.remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp,98
+class Solution {Solution1,0
+    int removeDuplicates(vector<int>& nums) {removeDuplicates3,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/081.search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp,91
+class Solution {Solution1,0
+    bool search(vector<int>& nums, int target) {search3,27
+
+/Users/ztlevi/Dropbox/leetcode/solutions/085.maximal-rectangle/maximal-rectangle.java,172
+class Solution {Solution1,0
+    	public int maximalRectangle(char[][] matrix) {maximalRectangle2,17
+	    private int maxAreaInHist(int[] height) {maxAreaInHist33,859
+
+/Users/ztlevi/Dropbox/leetcode/solutions/088.merge-sorted-array/merge-sorted-array.java,112
+public class Solution {Solution1,0
+    public void merge(int[] nums1, int m, int[] nums2, int n) {merge2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/089.gray-code/gray-code.java,94
+public class Solution {Solution1,0
+    public List<Integer> grayCode(int n) {grayCode2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/091.decode-ways/decode-ways.py,86
+class Solution(object):Solution1,0
+    def numDecodings(self, s):numDecodings2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/100.same-tree/same-tree.java,114
+public class Solution {Solution10,184
+    public boolean isSameTree(TreeNode p, TreeNode q) {isSameTree11,209
+
+/Users/ztlevi/Dropbox/leetcode/solutions/118.pascals-triangle/pascals-triangle.java,106
+public class Solution {Solution1,0
+    public List<List<Integer>> generate(int numRows) {generate2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/121.best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java,93
+public class Solution {Solution1,0
+    public int maxProfit(int[] prices) {maxProfit2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/122.best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java,93
+public class Solution {Solution1,0
+    public int maxProfit(int[] prices) {maxProfit2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/125.valid-palindrome/valid-palindrome.py,174
+class Solution(object):Solution1,0
+    def isPalindrome(self, s):isPalindrome2,24
+        import stringstring7,121
+        def isAlphaNumeric(c):isAlphaNumeric11,186
+
+/Users/ztlevi/Dropbox/leetcode/solutions/128.longest-consecutive-sequence/longest-consecutive-sequence.java,109
+public class Solution {Solution1,0
+    public int longestConsecutive(int[] nums) {longestConsecutive2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/136.single-number/single-number.java,97
+public class Solution {Solution1,0
+    public int singleNumber(int[] nums) {singleNumber2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/137.single-number-ii/single-number-ii.java,97
+public class Solution {Solution1,0
+    public int singleNumber(int[] nums) {singleNumber2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/138.copy-list-with-random-pointer/copy-list-with-random-pointer.java,125
+public class Solution {Solution9,211
+    public RandomListNode copyRandomList(RandomListNode head) {copyRandomList10,236
+
+/Users/ztlevi/Dropbox/leetcode/solutions/139.word-break/word-break.java,115
+public class Solution {Solution1,0
+    public boolean wordBreak(String s, Set<String> wordDict) {wordBreak2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/141.linked-list-cycle/linked-list-cycle.java,101
+public class Solution {Solution12,198
+    public boolean hasCycle(ListNode head) {hasCycle13,223
+
+/Users/ztlevi/Dropbox/leetcode/solutions/142.linked-list-cycle-ii/linked-list-cycle-ii.java,108
+public class Solution {Solution12,198
+    public ListNode detectCycle(ListNode head) {detectCycle14,279
+
+/Users/ztlevi/Dropbox/leetcode/solutions/146.lru-cache/lru-cache.java,229
+public class LRUCache {LRUCache1,0
+    private Map<Integer, Integer> map;map3,27
+    public LRUCache(int capacity) {LRUCache5,69
+    public int get(int key) {get13,324
+    public void set(int key, int value) {set17,407
+
+/Users/ztlevi/Dropbox/leetcode/solutions/147.insertion-sort-list/insertion-sort-list.java,119
+public class Solution {Solution9,152
+    public ListNode insertionSortList(ListNode head) {insertionSortList10,176
+
+/Users/ztlevi/Dropbox/leetcode/solutions/148.sort-list/sort-list.java,236
+public class Solution {Solution9,160
+	public ListNode findMid(ListNode head){findMid10,185
+	public ListNode sortList(ListNode head){sortList21,397
+	public ListNode merge(ListNode left, ListNode mid, ListNode right){merge50,1146
+
+/Users/ztlevi/Dropbox/leetcode/solutions/149.max-points-on-a-line/max-points-on-a-line.java,100
+public class Solution {Solution10,172
+    public int maxPoints(Point[] points) {maxPoints11,197
+
+/Users/ztlevi/Dropbox/leetcode/solutions/150.evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.java,92
+public class Solution {Solution1,0
+    public int evalRPN(String[] tokens) {evalRPN2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/151.reverse-words-in-a-string/reverse-words-in-a-string.java,97
+public class Solution {Solution1,0
+    public String reverseWords(String s){reverseWords2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/152.maximum-product-subarray/maximum-product-subarray.java,93
+public class Solution {Solution1,0
+    public int maxProduct(int[] nums) {maxProduct2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/153.find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java,87
+public class Solution {Solution1,0
+    public int findMin(int[] nums) {findMin2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/155.min-stack/min-stack.java,421
+class StackNode{StackNode1,0
+    int val;val2,18
+    int min;min3,32
+    StackNode next;next4,46
+    StackNode(int val, int min){StackNode5,67
+public class MinStack {MinStack11,163
+    public StackNode top;top13,237
+    public MinStack() {MinStack15,270
+    public void push(int x) {push19,318
+    public void pop() {pop29,568
+    public int top() {top34,661
+    public int getMin() {getMin38,723
+
+/Users/ztlevi/Dropbox/leetcode/solutions/157.read-n-characters-given-read4/read-n-characters-given-read4.py,78
+class Solution(object):Solution6,119
+    def read(self, buf, n):read7,143
+
+/Users/ztlevi/Dropbox/leetcode/solutions/158.read-n-characters-given-read4-ii-call-multiple-times/read-n-characters-given-read4-ii-call-multiple-times.py,160
+from collections import dequedeque5,122
+class Solution(object):Solution6,153
+    def __init__(self):__init__7,178
+    def read(self, buf, n):read10,258
+
+/Users/ztlevi/Dropbox/leetcode/solutions/160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.java,141
+public class Solution {Solution12,205
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {getIntersectionNode13,230
+
+/Users/ztlevi/Dropbox/leetcode/solutions/162.find-peak-element/find-peak-element.java,103
+public class Solution {Solution1,0
+    public int findPeakElement(int[] nums) {findPeakElement2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/164.maximum-gap/maximum-gap.java,208
+class Buckets {Buckets1,0
+    int low;low2,17
+    int high;high3,31
+    public Buckets() {Buckets4,46
+public class Solution {Solution10,121
+    public int maximumGap(int[] nums) {maximumGap23,520
+
+/Users/ztlevi/Dropbox/leetcode/solutions/168.excel-sheet-column-title/excel-sheet-column-title.java,99
+public class Solution {Solution1,0
+    public String convertToTitle(int n) {convertToTitle2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/169.majority-element/majority-element.java,103
+public class Solution {Solution1,0
+    public int majorityElement(int[] nums) {majorityElement2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/170.two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.java,214
+public class TwoSum {TwoSum1,0
+    private HashMap<Integer, Integer> map;map3,23
+    public TwoSum() {TwoSum5,114
+    public void add(int number) {add10,252
+    public boolean find(int value) {find20,552
+
+/Users/ztlevi/Dropbox/leetcode/solutions/171.excel-sheet-column-number/excel-sheet-column-number.java,97
+public class Solution {Solution1,0
+    public int titleToNumber(String s) {titleToNumber2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/172.factorial-trailing-zeroes/factorial-trailing-zeroes.java,96
+public class Solution {Solution1,0
+    public int trailingZeroes(int n) {trailingZeroes2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/179.largest-number/largest-number.java,102
+public class Solution {Solution1,0
+    public String largestNumber(int[] nums) {largestNumber2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/187.repeated-dna-sequences/repeated-dna-sequences.java,128
+public class Solution {Solution1,0
+    public List<String> findRepeatedDnaSequences(String s) {findRepeatedDnaSequences2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/188.best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.java,152
+public class Solution {Solution1,0
+    public int maxProfit(int k, int[] prices) {maxProfit2,24
+    public int profit(int[] prices) {profit21,763
+
+/Users/ztlevi/Dropbox/leetcode/solutions/189.rotate-array/rotate-array.java,166
+public class Solution {Solution1,0
+    public void rotate(int[] nums, int k) {rotate2,25
+    public void reverse(int[] nums, int start, int end) {reverse10,241
+
+/Users/ztlevi/Dropbox/leetcode/solutions/190.reverse-bits/reverse-bits.java,90
+public class Solution {Solution1,0
+    public int reverseBits(int n) {reverseBits3,71
+
+/Users/ztlevi/Dropbox/leetcode/solutions/191.number-of-1-bits/number-of-1-bits.java,94
+public class Solution {Solution1,0
+    public int hammingWeight(int n) {hammingWeight3,74
+
+/Users/ztlevi/Dropbox/leetcode/solutions/198.house-robber/house-robber.java,79
+public class Solution {Solution1,0
+    public int rob(int[] nums) {rob2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/200.number-of-islands/number-of-islands.java,149
+public class Solution {Solution1,0
+public int numIslands(char[][] grid) {numIslands2,25
+public void dfs(char[][] grid, int i, int j){dfs19,422
+
+/Users/ztlevi/Dropbox/leetcode/solutions/202.happy-number/happy-number.java,142
+public class Solution {Solution1,0
+    public boolean isHappy(int n) {isHappy2,25
+    public int getNextHappy(int n){getNextHappy11,276
+
+/Users/ztlevi/Dropbox/leetcode/solutions/204.count-primes/count-primes.java,90
+public class Solution {Solution1,0
+    public int countPrimes(int n) {countPrimes2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/206.reverse-linked-list/reverse-linked-list.java,107
+public class Solution {Solution9,160
+    public ListNode reverseList(ListNode head) {reverseList10,185
+
+/Users/ztlevi/Dropbox/leetcode/solutions/208.implement-trie-prefix-tree/implement-trie-prefix-tree.py,292
+class TreeNode(object):TreeNode1,0
+    def __init__(self, c = None):__init__2,25
+class Trie(object):Trie7,150
+    def __init__(self):__init__9,181
+    def insert(self, word):insert15,312
+    def search(self, word):search28,665
+    def startsWith(self, prefix):startsWith48,1185
+
+/Users/ztlevi/Dropbox/leetcode/solutions/209.minimum-size-subarray-sum/minimum-size-subarray-sum.java,108
+public class Solution {Solution1,0
+    public int minSubArrayLen(int s, int[] nums) {minSubArrayLen2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/211.add-and-search-word-data-structure-design/add-and-search-word-data-structure-design.py,299
+class TreeNode(object):TreeNode1,0
+    def __init__(self, c=None):__init__2,24
+class WordDictionary(object):WordDictionary7,134
+    def __init__(self):__init__8,164
+    def addWord(self, word):addWord14,289
+    def search(self, word):search27,630
+        def dfs(word, node):dfs34,854
+
+/Users/ztlevi/Dropbox/leetcode/solutions/217.contains-duplicate/contains-duplicate.java,111
+public class Solution {Solution1,0
+    public boolean containsDuplicate(int[] nums) {containsDuplicate2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/218.the-skyline-problem/the-skyline-problem.java,241
+class Height {Height1,0
+    int index;index2,16
+    int height;height3,32
+    Height(int index, int height) {Height4,49
+public class Solution {Solution10,158
+    public List<int[]> getSkyline(int[][] buildings) {getSkyline11,183
+
+/Users/ztlevi/Dropbox/leetcode/solutions/219.contains-duplicate-ii/contains-duplicate-ii.java,130
+public class Solution {Solution1,0
+    public boolean containsNearbyDuplicate(int[] nums, int k) {containsNearbyDuplicate2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/220.contains-duplicate-iii/contains-duplicate-iii.java,150
+public class Solution {Solution1,0
+     public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {containsNearbyAlmostDuplicate2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/223.rectangle-area/rectangle-area.java,139
+public class Solution {Solution1,0
+    public int computeArea(int A, int B, int C, int D, int E, int F, int G, int H) {computeArea2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/228.summary-ranges/summary-ranges.java,108
+public class Solution {Solution1,0
+    public List<String> summaryRanges(int[] nums) {summaryRanges2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/229.majority-element-ii/majority-element-ii.java,113
+public class Solution {Solution1,0
+    public List<Integer> majorityElement(int[] nums) {majorityElement2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/231.power-of-two/power-of-two.java,96
+public class Solution {Solution1,0
+    public boolean isPowerOfTwo(int n) {isPowerOfTwo2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/233.number-of-digit-one/number-of-digit-one.java,94
+public class Solution {Solution1,0
+    public int countDigitOne(int n) {countDigitOne2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/234.palindrome-linked-list/palindrome-linked-list.java,234
+public class Solution {Solution9,160
+    public boolean isPalindrome(ListNode head) {isPalindrome10,185
+    public ListNode findMiddle(ListNode head) {findMiddle26,651
+    public ListNode reverse(ListNode head) {reverse35,914
+
+/Users/ztlevi/Dropbox/leetcode/solutions/237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.java,101
+public class Solution {Solution9,160
+    public void deleteNode(ListNode node) {deleteNode10,185
+
+/Users/ztlevi/Dropbox/leetcode/solutions/238.product-of-array-except-self/product-of-array-except-self.java,109
+public class Solution {Solution1,0
+    public int[] productExceptSelf(int[] nums) {productExceptSelf2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java,117
+public class Solution {Solution1,0
+    public boolean searchMatrix(int[][] matrix, int target) {searchMatrix2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/242.valid-anagram/valid-anagram.java,164
+public class Solution {Solution1,0
+    public boolean isAnagram(String s, String t) {isAnagram2,25
+    public char[] string2Chars(String s){string2Chars7,194
+
+/Users/ztlevi/Dropbox/leetcode/solutions/244.shortest-word-distance-ii/shortest-word-distance-ii.java,245
+public class WordDistance {WordDistance1,0
+    private HashMap<String, ArrayList<Integer>> map;map2,29
+        public WordDistance(String[] words) {WordDistance3,83
+        public int shortest(String word1, String word2) {shortest18,624
+
+/Users/ztlevi/Dropbox/leetcode/solutions/253.meeting-rooms-ii/meeting-rooms-ii.java,118
+public class Solution {Solution10,210
+    public int minMeetingRooms(Interval[] intervals) {minMeetingRooms11,235
+
+/Users/ztlevi/Dropbox/leetcode/solutions/253.meeting-rooms-ii/meeting-rooms-ii.py,103
+class Solution(object):Solution7,147
+    def minMeetingRooms(self, intervals):minMeetingRooms8,172
+
+/Users/ztlevi/Dropbox/leetcode/solutions/258.add-digits/add-digits.cpp,74
+class Solution {Solution1,0
+    int addDigits(int num) {addDigits3,27
+
+/Users/ztlevi/Dropbox/leetcode/solutions/258.add-digits/add-digits.java,88
+public class Solution {Solution1,0
+    public int addDigits(int num) {addDigits2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/260.single-number-iii/single-number-iii.java,99
+public class Solution {Solution1,0
+    public int[] singleNumber(int[] nums) {singleNumber2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/263.ugly-number/ugly-number.java,86
+public class Solution {Solution1,0
+    public boolean isUgly(int num) {isUgly2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/268.missing-number/missing-number.java,99
+public class Solution {Solution1,0
+    public int missingNumber(int[] nums) {missingNumber2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/273.integer-to-english-words/integer-to-english-words.java,99
+public class Solution {Solution1,0
+    public String numberToWords(int num) {numberToWords2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/277.find-the-celebrity/find-the-celebrity.cpp,81
+class Solution {Solution4,71
+    int findCelebrity(int n) {findCelebrity6,98
+
+/Users/ztlevi/Dropbox/leetcode/solutions/277.find-the-celebrity/find-the-celebrity.py,91
+class Solution(object):Solution7,145
+    def findCelebrity(self, n):findCelebrity8,169
+
+/Users/ztlevi/Dropbox/leetcode/solutions/278.first-bad-version/first-bad-version.py,95
+class Solution(object):Solution6,127
+    def firstBadVersion(self, n):firstBadVersion7,151
+
+/Users/ztlevi/Dropbox/leetcode/solutions/279.perfect-squares/perfect-squares.java,88
+public class Solution {Solution1,0
+    public int numSquares(int n) {numSquares2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/282.expression-add-operators/expression-add-operators.py,153
+class Solution(object):Solution1,0
+    def addOperators(self, num, target):addOperators2,24
+    def dfs(self, num, rstString, cur, last):dfs17,453
+
+/Users/ztlevi/Dropbox/leetcode/solutions/283.move-zeroes/move-zeroes.java,94
+public class Solution {Solution1,0
+    public void moveZeroes(int[] nums) {moveZeroes2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/287.find-the-duplicate-number/find-the-duplicate-number.java,99
+public class Solution {Solution1,0
+    public int findDuplicate(int[] nums) {findDuplicate2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/289.game-of-life/game-of-life.java,97
+public class Solution {Solution1,0
+    public void gameOfLife(int[][] board) {gameOfLife2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/292.nim-game/nim-game.cpp,73
+class Solution {Solution1,0
+    bool canWinNim(int n) {canWinNim3,27
+
+/Users/ztlevi/Dropbox/leetcode/solutions/301.remove-invalid-parentheses/remove-invalid-parentheses.java,304
+public class Solution {Solution1,0
+    ArrayList<String> result = new ArrayList();result2,24
+    int max = 0;max3,72
+    public List<String> removeInvalidParentheses(String s) {removeInvalidParentheses5,94
+    public void dfs(String left, String right, int countLeft, int maxString) {dfs18,458
+
+/Users/ztlevi/Dropbox/leetcode/solutions/306.additive-number/additive-number.java,178
+public class Solution {Solution1,0
+    public boolean isAdditiveNumber(String num) {isAdditiveNumber2,24
+    public boolean dfs(String num, int i, int j, int k) {dfs13,409
+
+/Users/ztlevi/Dropbox/leetcode/solutions/311.sparse-matrix-multiplication/sparse-matrix-multiplication.py,81
+class Solution(object):Solution1,0
+    def multiply(self, A, B):multiply2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/316.remove-duplicate-letters/remove-duplicate-letters.java,207
+public class Solution {Solution1,0
+    public String removeDuplicateLetters(String s) {removeDuplicateLetters2,24
+    public int findSmallestIndex(Map<Character, Integer> map) {findSmallestIndex36,970
+
+/Users/ztlevi/Dropbox/leetcode/solutions/319.bulb-switcher/bulb-switcher.java,88
+public class Solution {Solution1,0
+    public int bulbSwitch(int n) {bulbSwitch3,31
+
+/Users/ztlevi/Dropbox/leetcode/solutions/325.maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.java,108
+public class Solution {Solution1,0
+    public int maxSubArrayLen(int[] nums, int k) {maxSubArrayLen2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/326.power-of-three/power-of-three.java,100
+public class Solution {Solution1,0
+    public boolean isPowerOfThree(int n) {isPowerOfThree2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/328.odd-even-linked-list/odd-even-linked-list.java,108
+public class Solution {Solution9,160
+	    public ListNode oddEvenList(ListNode head) {oddEvenList10,185
+
+/Users/ztlevi/Dropbox/leetcode/solutions/335.self-crossing/self-crossing.java,102
+public class Solution {Solution1,0
+    public boolean isSelfCrossing(int[] x) {isSelfCrossing2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/336.palindrome-pairs/palindrome-pairs.java,189
+public class Solution {Solution1,0
+    public List<List<Integer>> palindromePairs(String[] words) {palindromePairs2,24
+    private boolean isPalindrome(String s) {isPalindrome76,2739
+
+/Users/ztlevi/Dropbox/leetcode/solutions/338.counting-bits/counting-bits.java,90
+public class Solution {Solution1,0
+    public int[] countBits(int num) {countBits2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/339.nested-list-weight-sum/nested-list-weight-sum.java,207
+public class Solution {Solution18,746
+    public int depthSum(List<NestedInteger> nestedList) {depthSum19,771
+    public int partDepthSum(List<NestedInteger> nestedList, int depth) {partDepthSum23,884
+
+/Users/ztlevi/Dropbox/leetcode/solutions/341.flatten-nested-list-iterator/flatten-nested-list-iterator.py,227
+class NestedIterator(object):NestedIterator26,821
+    def __init__(self, nestedList):__init__28,852
+    def flatten(self, nestedList):flatten37,1092
+    def next(self):next46,1333
+    def hasNext(self):hasNext54,1480
+
+/Users/ztlevi/Dropbox/leetcode/solutions/344.reverse-string/reverse-string.cpp,86
+class Solution {Solution1,0
+    string reverseString(string s) {reverseString3,27
+
+/Users/ztlevi/Dropbox/leetcode/solutions/345.reverse-vowels-of-a-string/reverse-vowels-of-a-string.java,152
+public class Solution {Solution1,0
+    public String reverseVowels(String s) {reverseVowels2,24
+    public boolean isVowel(char c) {isVowel22,649
+
+/Users/ztlevi/Dropbox/leetcode/solutions/347.top-k-frequent-elements/top-k-frequent-elements.java,114
+public class Solution {Solution1,0
+    public List<Integer> topKFrequent(int[] nums, int k) {topKFrequent2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/349.intersection-of-two-arrays/intersection-of-two-arrays.java,113
+public class Solution {Solution1,0
+    public int[] intersection(int[] nums1, int[] nums2) {intersection2,24
+
+/Users/ztlevi/Dropbox/leetcode/solutions/364.nested-list-weight-sum-ii/nested-list-weight-sum-ii.java,208
+public class Solution {Solution29,1176
+    public int DFS(List<NestedInteger> nestedList, int lastSum) {DFS30,1201
+    public int depthSumInverse(List<NestedInteger> nestedList) {depthSumInverse47,1737
+
+/Users/ztlevi/Dropbox/leetcode/solutions/371.sum-of-two-integers/sum-of-two-integers.cpp,73
+class Solution {Solution1,0
+    int getSum(int a, int b) {getSum3,27
+
+/Users/ztlevi/Dropbox/leetcode/solutions/374.guess-number-higher-or-lower/guess-number-higher-or-lower.java,111
+public class Solution extends GuessGame {Solution6,202
+    public int guessNumber(int n) {guessNumber7,245
+
+/Users/ztlevi/Dropbox/leetcode/solutions/383.ransom-note/ransom-note.java,125
+public class Solution {Solution1,0
+    public boolean canConstruct(String ransomNote, String magazine) {canConstruct2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/384.shuffle-an-array/shuffle-an-array.java,248
+public class Solution {Solution1,0
+    int[] nums;nums2,25
+    int[] randoms;randoms3,42
+    Random r;r4,62
+    public Solution(int[] nums) {Solution5,77
+    public int[] reset() {reset12,311
+    public int[] shuffle() {shuffle18,483
+
+/Users/ztlevi/Dropbox/leetcode/solutions/387.first-unique-character-in-a-string/first-unique-character-in-a-string.java,97
+public class Solution {Solution1,0
+    public int firstUniqChar(String s) {firstUniqChar2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/388.longest-absolute-file-path/longest-absolute-file-path.java,109
+public class Solution {Solution1,0
+    public int lengthLongestPath(String input) {lengthLongestPath2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/412.fizz-buzz/fizz-buzz.java,93
+public class Solution {Solution1,0
+    public List<String> fizzBuzz(int n) {fizzBuzz2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/419.battleships-in-a-board/battleships-in-a-board.java,178
+public class Solution {Solution1,0
+    public int countBattleships(char[][] board) {countBattleships2,25
+    public void helper(char[][] board, int i, int j) {helper17,479
+
+/Users/ztlevi/Dropbox/leetcode/solutions/461.hamming-distance/hamming-distance.java,105
+public class Solution {Solution1,0
+    public int hammingDistance(int x, int y) {hammingDistance2,25
+
+/Users/ztlevi/Dropbox/leetcode/solutions/463.island-perimeter/island-perimeter.java,185
+public class Solution {Solution1,0
+    public int islandPerimeter(int[][] grid) {islandPerimeter2,24
+    public int checkSurround(int[][] grid, int i, int j) {checkSurround19,478
