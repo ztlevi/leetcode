@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java,c++,python
 
-Last updated: 2017-07-18
+Last updated: 2017-08-08
 
-I've solved 214/569 problems (107 problems for a fee).
+I've solved 232/581 problems (110 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -106,6 +106,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [java](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)| Easy|
 |161|[one-edit-distance](https://leetcode.com/problems/one-edit-distance/)| [python](./161.one-edit-distance/one-edit-distance.py)| Medium|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
+|163|[missing-ranges](https://leetcode.com/problems/missing-ranges/)| [python](./163.missing-ranges/missing-ranges.py)| Medium|
 |164|[maximum-gap](https://leetcode.com/problems/maximum-gap/)| [java](./164.maximum-gap/maximum-gap.java)| hard|
 |165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers/)| [python](./165.compare-version-numbers/compare-version-numbers.py)| Medium|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [python](./167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py)| Easy|
@@ -155,37 +156,46 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [java](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java)| Medium|
 |242|[valid-anagram](https://leetcode.com/problems/valid-anagram/)| [java](./242.valid-anagram/valid-anagram.java)| Easy|
 |244|[shortest-word-distance-ii](https://leetcode.com/problems/shortest-word-distance-ii/)| [java](./244.shortest-word-distance-ii/shortest-word-distance-ii.java)| Medium|
+|246|[strobogrammatic-number](https://leetcode.com/problems/strobogrammatic-number/)| [python](./246.strobogrammatic-number/strobogrammatic-number.py)| Easy|
+|247|[strobogrammatic-number-ii](https://leetcode.com/problems/strobogrammatic-number-ii/)| [python](./247.strobogrammatic-number-ii/strobogrammatic-number-ii.py)| Medium|
 |252|[meeting-rooms](https://leetcode.com/problems/meeting-rooms/)| [python](./252.meeting-rooms/meeting-rooms.py)| Easy|
 |253|[meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/)| [python](./253.meeting-rooms-ii/meeting-rooms-ii.py) [java](./253.meeting-rooms-ii/meeting-rooms-ii.java)| Medium|
 |257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/)| [python](./257.binary-tree-paths/binary-tree-paths.py)| Easy|
 |258|[add-digits](https://leetcode.com/problems/add-digits/)| [c++](./258.add-digits/add-digits.cpp) [java](./258.add-digits/add-digits.java)| Easy|
+|259|[3sum-smaller](https://leetcode.com/problems/3sum-smaller/)| [python](./259.3sum-smaller/3sum-smaller.py)| Medium|
 |260|[single-number-iii](https://leetcode.com/problems/single-number-iii/)| [java](./260.single-number-iii/single-number-iii.java)| Medium|
 |263|[ugly-number](https://leetcode.com/problems/ugly-number/)| [java](./263.ugly-number/ugly-number.java)| Easy|
 |268|[missing-number](https://leetcode.com/problems/missing-number/)| [java](./268.missing-number/missing-number.java)| Easy|
 |269|[alien-dictionary](https://leetcode.com/problems/alien-dictionary/)| [python](./269.alien-dictionary/alien-dictionary.py)| hard|
+|271|[encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings/)| [python](./271.encode-and-decode-strings/encode-and-decode-strings.py)| Medium|
 |273|[integer-to-english-words](https://leetcode.com/problems/integer-to-english-words/)| [java](./273.integer-to-english-words/integer-to-english-words.java)| hard|
 |274|[h-index](https://leetcode.com/problems/h-index/)| [python](./274.h-index/h-index.py)| Medium|
 |275|[h-index-ii](https://leetcode.com/problems/h-index-ii/)| [python](./275.h-index-ii/h-index-ii.py)| Medium|
 |277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity/)| [c++](./277.find-the-celebrity/find-the-celebrity.cpp) [python](./277.find-the-celebrity/find-the-celebrity.py)| Medium|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version/)| [python](./278.first-bad-version/first-bad-version.py)| Easy|
 |279|[perfect-squares](https://leetcode.com/problems/perfect-squares/)| [java](./279.perfect-squares/perfect-squares.java)| Medium|
+|280|[wiggle-sort](https://leetcode.com/problems/wiggle-sort/)| [python](./280.wiggle-sort/wiggle-sort.py)| Medium|
 |281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator/)| [python](./281.zigzag-iterator/zigzag-iterator.py)| Medium|
 |282|[expression-add-operators](https://leetcode.com/problems/expression-add-operators/)| [python](./282.expression-add-operators/expression-add-operators.py)| hard|
 |283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)| [java](./283.move-zeroes/move-zeroes.java)| Easy|
 |285|[inorder-successor-in-bst](https://leetcode.com/problems/inorder-successor-in-bst/)| [python](./285.inorder-successor-in-bst/inorder-successor-in-bst.py)| Medium|
 |286|[walls-and-gates](https://leetcode.com/problems/walls-and-gates/)| [python](./286.walls-and-gates/walls-and-gates.py)| Medium|
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)| [java](./287.find-the-duplicate-number/find-the-duplicate-number.java)| Medium|
+|288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)| [python](./288.unique-word-abbreviation/unique-word-abbreviation.py)| Medium|
 |289|[game-of-life](https://leetcode.com/problems/game-of-life/)| [java](./289.game-of-life/game-of-life.java)| Medium|
 |292|[nim-game](https://leetcode.com/problems/nim-game/)| [c++](./292.nim-game/nim-game.cpp)| Easy|
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [python](./297.serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.py)| hard|
 |298|[binary-tree-longest-consecutive-sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)| [python](./298.binary-tree-longest-consecutive-sequence/binary-tree-longest-consecutive-sequence.py)| Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)| [java](./301.remove-invalid-parentheses/remove-invalid-parentheses.java)| hard|
+|305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii/)| [python](./305.number-of-islands-ii/number-of-islands-ii.py)| hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number/)| [java](./306.additive-number/additive-number.java)| Medium|
 |308|[range-sum-query-2d-mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)| [python](./308.range-sum-query-2d-mutable/range-sum-query-2d-mutable.py)| hard|
 |311|[sparse-matrix-multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)| [python](./311.sparse-matrix-multiplication/sparse-matrix-multiplication.py)| Medium|
 |314|[binary-tree-vertical-order-traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)| [python](./314.binary-tree-vertical-order-traversal/binary-tree-vertical-order-traversal.py)| Medium|
 |316|[remove-duplicate-letters](https://leetcode.com/problems/remove-duplicate-letters/)| [java](./316.remove-duplicate-letters/remove-duplicate-letters.java)| hard|
+|317|[shortest-distance-from-all-buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)| [python](./317.shortest-distance-from-all-buildings/shortest-distance-from-all-buildings.py)| hard|
 |319|[bulb-switcher](https://leetcode.com/problems/bulb-switcher/)| [java](./319.bulb-switcher/bulb-switcher.java)| Medium|
+|320|[generalized-abbreviation](https://leetcode.com/problems/generalized-abbreviation/)| [python](./320.generalized-abbreviation/generalized-abbreviation.py)| Medium|
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)| [java](./325.maximum-size-subarray-sum-equals-k/maximum-size-subarray-sum-equals-k.java)| Medium|
 |326|[power-of-three](https://leetcode.com/problems/power-of-three/)| [java](./326.power-of-three/power-of-three.java)| Easy|
 |328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/)| [java](./328.odd-even-linked-list/odd-even-linked-list.java)| Medium|
@@ -198,9 +208,12 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)| [python](./341.flatten-nested-list-iterator/flatten-nested-list-iterator.py)| Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string/)| [c++](./344.reverse-string/reverse-string.cpp)| Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [java](./345.reverse-vowels-of-a-string/reverse-vowels-of-a-string.java)| Easy|
+|346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream/)| [python](./346.moving-average-from-data-stream/moving-average-from-data-stream.py)| Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)| [java](./347.top-k-frequent-elements/top-k-frequent-elements.java)| Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [java](./349.intersection-of-two-arrays/intersection-of-two-arrays.java)| Easy|
+|351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns/)| [python](./351.android-unlock-patterns/android-unlock-patterns.py)| Medium|
 |355|[design-twitter](https://leetcode.com/problems/design-twitter/)| [python](./355.design-twitter/design-twitter.py)| Medium|
+|361|[bomb-enemy](https://leetcode.com/problems/bomb-enemy/)| [python](./361.bomb-enemy/bomb-enemy.py)| Medium|
 |364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii/)| [java](./364.nested-list-weight-sum-ii/nested-list-weight-sum-ii.java)| Medium|
 |371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)| [c++](./371.sum-of-two-integers/sum-of-two-integers.cpp)| Easy|
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [java](./374.guess-number-higher-or-lower/guess-number-higher-or-lower.java)| Easy|
@@ -210,12 +223,16 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array/)| [java](./384.shuffle-an-array/shuffle-an-array.java)| Medium|
 |387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/)| [java](./387.first-unique-character-in-a-string/first-unique-character-in-a-string.java)| Easy|
 |388|[longest-absolute-file-path](https://leetcode.com/problems/longest-absolute-file-path/)| [java](./388.longest-absolute-file-path/longest-absolute-file-path.java)| Medium|
+|393|[utf-8-validation](https://leetcode.com/problems/utf-8-validation/)| [python](./393.utf-8-validation/utf-8-validation.py)| Medium|
+|394|[decode-string](https://leetcode.com/problems/decode-string/)| [python](./394.decode-string/decode-string.py)| Medium|
 |398|[random-pick-index](https://leetcode.com/problems/random-pick-index/)| [python](./398.random-pick-index/random-pick-index.py)| Medium|
 |404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [python](./404.sum-of-left-leaves/sum-of-left-leaves.py)| Easy|
+|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)| [python](./406.queue-reconstruction-by-height/queue-reconstruction-by-height.py)| Medium|
 |412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)| [java](./412.fizz-buzz/fizz-buzz.java)| Easy|
 |414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number/)| [python](./414.third-maximum-number/third-maximum-number.py)| Easy|
 |418|[sentence-screen-fitting](https://leetcode.com/problems/sentence-screen-fitting/)| [python](./418.sentence-screen-fitting/sentence-screen-fitting.py)| Medium|
 |419|[battleships-in-a-board](https://leetcode.com/problems/battleships-in-a-board/)| [java](./419.battleships-in-a-board/battleships-in-a-board.java)| Medium|
+|425|[word-squares](https://leetcode.com/problems/word-squares/)| [python](./425.word-squares/word-squares.py)| hard|
 |438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [python](./438.find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.py)| Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)| [python](./449.serialize-and-deserialize-bst/serialize-and-deserialize-bst.py)| Medium|
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache/)| [python](./460.lfu-cache/lfu-cache.py)| hard|
@@ -225,3 +242,4 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |494|[target-sum](https://leetcode.com/problems/target-sum/)| [python](./494.target-sum/target-sum.py)| Medium|
 |523|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum/)| [python](./523.continuous-subarray-sum/continuous-subarray-sum.py)| Medium|
 |535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl/)| [python](./535.encode-and-decode-tinyurl/encode-and-decode-tinyurl.py)| Medium|
+|617|[merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)| [python](./617.merge-two-binary-trees/merge-two-binary-trees.py)| Easy|
