@@ -1,0 +1,1 @@
+{"python":"class Solution(object):\n    def isStrobogrammatic(self, num):\n        \"\"\"\n        :type num: str\n        :rtype: bool\n        \"\"\"\n        pair = {'1':'1', '6':'9', '9':'6', '0':'0', '8':'8'}\n        for i in range(len(num)/2 + 1):\n            if num[i] not in pair or pair[num[i]] != num[~i]: return False\n        return True\n                \n        "}

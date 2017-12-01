@@ -1,0 +1,1 @@
+{"python":"class Solution(object):\n    def canWin(self, s):\n        \"\"\"\n        :type s: str\n        :rtype: bool\n        \"\"\"\n        def search(s):\n            if s not in mem:\n                mem[s] = any(not search(s[:i] + '--' + s[i+2:]) for i in range(len(s)) if s[i:i+2] == '++')\n            return mem[s]\n        mem = {}\n        return search(s) "}

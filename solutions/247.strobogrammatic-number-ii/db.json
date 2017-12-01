@@ -1,0 +1,1 @@
+{"python":"class Solution(object):\n    def findStrobogrammatic(self, n):\n        nums = n % 2 * list('018') or ['']\n        while n > 1:\n            n -= 2\n            nums = [a + num + b for a, b in '00 11 88 69 96'.split()[n < 2:] for num in nums]\n        return nums"}

@@ -1,0 +1,1 @@
+{"python":"class Solution:\n    def leastInterval(self, tasks, n):\n        \"\"\"\n        :type tasks: List[str]\n        :type n: int\n        :rtype: int\n        \"\"\"\n        task_counter = list(collections.Counter(tasks).values());\n        M = max(task_counter)\n        cM = task_counter.count(M)\n        return max(len(tasks), (M - 1) * (n + 1) + cM)\n        "}

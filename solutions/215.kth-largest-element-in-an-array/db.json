@@ -1,0 +1,1 @@
+{"python":"class Solution(object):\n    def findKthLargest(self, nums, k):\n        \"\"\"\n        :type nums: List[int]\n        :type k: int\n        :rtype: int\n        \"\"\"\n        from heapq import *\n        heap = []\n        for i in nums:\n            heappush(heap, i)\n        for i in range(len(nums)-k):\n            heappop(heap)\n        return heappop(heap)\n"}

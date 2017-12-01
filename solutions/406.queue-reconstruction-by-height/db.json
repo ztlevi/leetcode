@@ -1,0 +1,1 @@
+{"python":"class Solution(object):\n    def reconstructQueue(self, people):\n        people.sort(key=lambda p: (-p[0], p[1]))\n        queue = []\n        for p in people:\n            queue.insert(p[1], p)\n        return queue\n"}
